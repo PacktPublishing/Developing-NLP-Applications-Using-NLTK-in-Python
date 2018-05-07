@@ -24,7 +24,7 @@ If you are a data scientist, data analyst, or data science professional who woul
 ### Technical Requirements
 This course has the following software requirements:<br/>
 <UL>
-<LI>[Python 3.x](https://www.python.org/downloads/) or higher running on any Windows or Unix <br/>
+<LI>Python 3.x or higher running on any Windows or Unix <br/>
 <LI>Processor of 2.0 GHz or higher<br/>
 <LI>Minimum 4GB RAM<br/></LI></UL>
 
