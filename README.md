@@ -23,9 +23,10 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 If you are a data scientist, data analyst, or data science professional who would like to expand their knowledge from traditional NLP techniques to state-of-the-art techniques in the application of NLP, this course is perfect for you. With some basic knowledge of natural language processing, you’ll get to refresh various concepts and develop more clarity when applying algorithms to chosen data.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-[Python 3.x](https://www.python.org/downloads/) or higher running on any Windows or Unix <br/>
-Processor of 2.0 GHz or higher<br/>
-Minimum 4GB RAM<br/>
+<UL>
+<LI>[Python 3.x](https://www.python.org/downloads/) or higher running on any Windows or Unix <br/>
+<LI>Processor of 2.0 GHz or higher<br/>
+<LI>Minimum 4GB RAM<br/></LI></UL>
 
 ## Related Products
 * [Text Processing Using NLTK in Python [Video]](https://www.packtpub.com/big-data-and-business-intelligence/text-processing-using-nltk-python-video?utm_source=github&utm_medium=repository&utm_campaign=9781789348989)
